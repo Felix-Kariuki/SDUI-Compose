@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1087779243895",
+    "firebase_url": "https://sdui-sample-default-rtdb.firebaseio.com",
+    "project_id": "sdui-sample",
+    "storage_bucket": "sdui-sample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087779243895:android:b5f039f6878c9d5d8cc372",
+        "android_client_info": {
+          "package_name": "com.flexcode.sduicompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJYwQQzFA2kKFmMw1MOHaEPQnA26W9IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087779243895:android:80cc7b79fa81e4ce8cc372",
+        "android_client_info": {
+          "package_name": "io.getstream.server.driven.compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJYwQQzFA2kKFmMw1MOHaEPQnA26W9IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
