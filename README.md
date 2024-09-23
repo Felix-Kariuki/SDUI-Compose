@@ -151,6 +151,16 @@ REALTIME_DATABASE_URL=URL_HERE
 ![Screenshot 2024-09-24 at 01 51 06](https://github.com/user-attachments/assets/71f275a6-1505-4757-be32-ac478cd6cc9b)
 
 
+## Screnshots
+
+<img src="./screenshots/sdui.png" width=320> 
+
+## Demo
+
+
+
+https://github.com/user-attachments/assets/ca53dbcd-1f9f-47f2-b3aa-44b20df6d6ab
+
 
 
  ## Author
