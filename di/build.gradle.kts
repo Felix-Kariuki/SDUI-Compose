@@ -36,6 +36,6 @@ dependencies {
 }
 
 secrets {
-    propertiesFileName = "secrets.properties"
-    defaultPropertiesFileName = "secrets.defaults.properties"
+    propertiesFileName = "local.properties"
+    defaultPropertiesFileName = "local.properties"
 }

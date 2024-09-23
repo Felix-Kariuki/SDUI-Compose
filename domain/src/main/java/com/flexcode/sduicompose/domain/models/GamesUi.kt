@@ -15,7 +15,6 @@ data class ImageUi(
     val url: String,
     val size: DpSizeUi = DpSizeUi(0, 0),
     val scaleType: String,
-    val handler: Handler? = null
 ) : UiComponent
 
 @Serializable
